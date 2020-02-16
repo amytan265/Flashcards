@@ -8,7 +8,7 @@ CodePath Lab
 A simple flashcard app programmed in Swift that shows answers on tap. 
 
 ### App Walk-though
-<img src="https://raw.githubusercontent.com/amytan265/Flashcards/master/Lab1Demo.gif" width=200><br>
+<img src="https://raw.githubusercontent.com/amytan265/Flashcards/master/Lab1Demo.gif" width=200> <img src="https://raw.githubusercontent.com/amytan265/Flashcards/master/LabDemo2.gif" width=200>
 
 ## Required
 - [x] Create New Project in Xcode
